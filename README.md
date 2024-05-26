@@ -26,8 +26,7 @@ Connect to a TT drone by wifi, and run:
 roslaunch rmtt_driver rmtt_bringup.launch
 ```
 
-RoboMaster Tello Talent ROS Driver is originally developed for [NPU-RoboCourse](https://github.com/cavayangtao/npurobocourse) through the cooperation of [NPU-USRI](https://wurenxitong.nwpu.edu.cn/) and [Tianbot](https://www.tianbot.com/). We keep the original readme below.
-
+RoboMaster Tello Talent ROS Driver ([RMTT](https://github.com/tianbot/rmtt_ros)) is originally developed for [NPU-RoboCourse](https://github.com/cavayangtao/npurobocourse) through the cooperation of NPU-USRI and Tianbot. We keep the original readme below.
 
 # RoboMaster Tello Talent (RMTT)
 RoboMaster TT (also know as DJI Tello Talent or Ryze Tello Talent) features improved hardware and an LED light. RoboMaster TT suports Wi-Fi 5G channel and a flying map, which can be used for low-cost drone swarm. 
