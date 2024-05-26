@@ -2,7 +2,7 @@
 
 rmtt_node.py is tested in Ubuntu 20.04/ROS Noetic and used for authorized TT drones.
 
-rmtt_node18.py is tested in Ubuntu 18.04/ROS Melodic and Ubuntu 20.04/ROS Noetic.
+rmtt_node18.py is tested in Ubuntu 18.04/ROS Melodic.
 
 Please switch in rmtt_bringup.launch.
 
